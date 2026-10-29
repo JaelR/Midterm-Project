@@ -1,7 +1,7 @@
 # DESI Multi-Modality Explorer — Mid-Term Project
 
 ## Live App
-[Insert your Streamlit Cloud URL here]
+(https://midterm-project-hkqhizgh6gqkcrvby9cvjx.streamlit.app/)
 
 ## Dataset
 The app uses a sample of 2,000 galaxies from the DESI DR1 Bright Galaxy Survey (`desi_galaxy_sample_hf.csv`). 
